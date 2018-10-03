@@ -12,7 +12,7 @@ The Internet of Things is a concept defined as a network of connected physical o
 If you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed, clone the repository.
 
 ```
-git clone https://github.com/harshitsinghai77/SmartMirror-using-Javascript-and-Raspberry-Pi.git
+git clone https://github.com/harshitsinghai77/SmartMirror-using-python-and-raspberry-pi.git
 ```
 
 
