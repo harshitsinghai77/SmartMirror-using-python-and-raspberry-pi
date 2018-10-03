@@ -1,4 +1,4 @@
-# SmartMirror using Javascript and Raspberry Pi
+# SmartMirror using Python and Raspberry Pi
 
 
 # Description
